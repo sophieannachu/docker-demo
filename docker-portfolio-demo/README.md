@@ -1,6 +1,4 @@
-# Infra Portfolio Demo
-
-這是一個適合系統工程師 / Infra Team 面試展示的小型作品集專案。
+面試展示的小型作品集專案
 
 ## 架構
 - Flask API container
